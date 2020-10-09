@@ -1,0 +1,1 @@
+<h1>Solution of some Code Forces problem</h1>
