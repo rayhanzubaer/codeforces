@@ -4,4 +4,5 @@
 	<li>50A - Domino Piling</li>
 	<li>282A - Bit++</li>
 	<li>112A - Petya and Strings</li>
+	<li>263A - Beautiful Matrix</li>
 </ul>
