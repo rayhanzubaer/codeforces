@@ -6,4 +6,5 @@
 	<li>112A - Petya and Strings</li>
 	<li>263A - Beautiful Matrix</li>
 	<li>339A - Helpful Maths</li>
+	<li>281A - Word Capitalization</li>
 </ul>
