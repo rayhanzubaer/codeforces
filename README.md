@@ -7,4 +7,5 @@
 	<li>263A - Beautiful Matrix</li>
 	<li>339A - Helpful Maths</li>
 	<li>281A - Word Capitalization</li>
+	<li>266A - Stones on the Table</li>
 </ul>
