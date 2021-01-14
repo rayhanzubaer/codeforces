@@ -1,4 +1,4 @@
-#Solution of some Codeforces problems
+# Solution of some Codeforces problems
 1. 118A - String Task
 2. 50A - Domino Piling
 3. 282A - Bit++
