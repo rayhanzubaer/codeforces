@@ -8,3 +8,4 @@
 7. 281A - Word Capitalization
 8. 266A - Stones on the Table
 9. 236A - Boy or Girl
+10. 96A - Football
