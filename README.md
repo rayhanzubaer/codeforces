@@ -12,3 +12,4 @@
 11. 69A - Young Physicist
 12. 546A - Soldier and Bananas
 13. 791A - Bear and Big Brother
+14. 977A - Wrong Subtraction
