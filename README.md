@@ -17,3 +17,4 @@
 16. 58A - Chat room
 17. 617A - Elephant
 18. 122A - Lucky Division
+19. 59A - Word
