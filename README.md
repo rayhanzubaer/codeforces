@@ -18,3 +18,4 @@
 17. 617A - Elephant
 18. 122A - Lucky Division
 19. 59A - Word
+20. 266B - Queue at the School
