@@ -20,3 +20,4 @@
 19. 59A - Word
 20. 266B - Queue at the School
 21. 160A - Twins
+22. 110A - Nearly Lucky Number
