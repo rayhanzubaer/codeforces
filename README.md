@@ -22,3 +22,4 @@
 21. 160A - Twins
 22. 110A - Nearly Lucky Number
 23. 41A - Translation
+24. 734A - Anton and Danik
