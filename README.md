@@ -21,3 +21,4 @@
 20. 266B - Queue at the School
 21. 160A - Twins
 22. 110A - Nearly Lucky Number
+23. 41A - Translation
