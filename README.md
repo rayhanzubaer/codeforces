@@ -33,3 +33,4 @@
 32. 580A - Kefa and First Steps
 33. 1080A - In Search of an Easy Problem
 34. 318A - Even Odds
+35. 705A - Hulk
