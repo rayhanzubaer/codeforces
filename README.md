@@ -34,3 +34,4 @@
 33. 1080A - In Search of an Easy Problem
 34. 318A - Even Odds
 35. 705A - Hulk
+36. 131A - cAPS lOCK
