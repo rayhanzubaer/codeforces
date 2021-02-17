@@ -35,3 +35,4 @@
 34. 318A - Even Odds
 35. 705A - Hulk
 36. 131A - cAPS lOCK
+37. 486A - Calculating Function
