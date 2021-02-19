@@ -37,3 +37,4 @@
 36. 131A - cAPS lOCK
 37. 486A - Calculating Function
 38. 479A - Expression
+39. 61A - Ultra-Fast Mathematician
