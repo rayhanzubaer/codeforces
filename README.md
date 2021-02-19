@@ -36,3 +36,4 @@
 35. 705A - Hulk
 36. 131A - cAPS lOCK
 37. 486A - Calculating Function
+38. 479A - Expression
