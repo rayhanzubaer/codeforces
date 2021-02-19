@@ -38,3 +38,4 @@
 37. 486A - Calculating Function
 38. 479A - Expression
 39. 61A - Ultra-Fast Mathematician
+40. 200B - Drinks
