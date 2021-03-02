@@ -49,3 +49,4 @@
 48. 25A - IQ Test
 49. 443A - Anton and Letters
 50. 1328A - Divisibility Problem
+51. 268A - Games
