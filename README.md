@@ -52,3 +52,4 @@
 51. 268A - Games
 52. 520A - Pangram
 53. 785A - Anton and Polyhedrons
+54. 1335A - Candies and Two Sisters
