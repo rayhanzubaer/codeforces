@@ -54,3 +54,4 @@
 53. 785A - Anton and Polyhedrons
 54. 1335A - Candies and Two Sisters
 55. 141A - Amusing Joke
+56. 996A - Hit the Lottery
