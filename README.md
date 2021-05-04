@@ -55,3 +55,4 @@
 54. 1335A - Candies and Two Sisters
 55. 141A - Amusing Joke
 56. 996A - Hit the Lottery
+57. 492B - Vanya and Lanterns
